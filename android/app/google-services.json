@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2554347969",
+    "project_id": "mmherbel-e416f",
+    "storage_bucket": "mmherbel-e416f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2554347969:android:da7c17298086c467ab2f40",
+        "android_client_info": {
+          "package_name": "com.example.mmherbel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw6ZYKLBRj0OcEEbvFvlfeL0jrO61K0aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
